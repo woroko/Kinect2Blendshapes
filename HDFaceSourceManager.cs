@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+// NOTE: contains parts from Sample Code, the rest is licensed under MIT license
+
+using UnityEngine;
 
 using System.Collections;
 
